@@ -1,4 +1,4 @@
-package com.v2ray.ang.ui
+package com.hiruu.v2ray
 
 import android.content.Intent
 import android.net.Uri
