@@ -1,4 +1,4 @@
-package com.v2ray.ang
+package com.hiruu.v2ray
 
 
 object AppConfig {
