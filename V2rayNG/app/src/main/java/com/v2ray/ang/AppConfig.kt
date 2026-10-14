@@ -1,11 +1,10 @@
 package com.hiruu.v2ray
 
-
 object AppConfig {
 
     /** The application's package name. */
-    const val ANG_PACKAGE = BuildConfig.APPLICATION_ID
-    const val TAG = BuildConfig.APPLICATION_ID
+    const val ANG_PACKAGE = "com.hiruu.v2ray"
+    const val TAG = "com.hiruu.v2ray"
 
     /** Directory names used in the app's file system. */
     const val DIR_ASSETS = "assets"
